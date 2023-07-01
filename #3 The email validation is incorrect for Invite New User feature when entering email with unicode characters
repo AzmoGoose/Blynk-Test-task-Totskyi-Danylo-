@@ -7,3 +7,4 @@ Actual result: System validates the email as correct
 Expected result: The email with unicode characters should not be validated as correct
 Severity: Low
 Priority: Low
+Additional info: The problem is present for other email inputs
