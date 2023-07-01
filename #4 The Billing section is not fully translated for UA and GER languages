@@ -3,7 +3,7 @@ Pre-conditions: Logged into account
 Steps to reproduce:
 1. Go to the Billing section
 2. Check the language translation for UA and GER.
-Actual result: The section is not fully translated for UA and GER languages
-Expected result: The section should be fully translated for UA and GER languages.
+Actual result: The section is not fully translated into UA and GER languages
+Expected result: The section should be fully translated into UA and GER languages.
 Severity: Low
 Priority: Low/Middle, depending on the percentage of the audience that uses UA and GER languages.
