@@ -1,8 +1,9 @@
 Environment: OS: Windows 10 Pro v. 21H1 19043.1237, Browser: Opera GX LVL4 (core: 99.0.4788.49).
 Pre-conditions: Logged into account
 Steps to reproduce:
-1. Go to the Billing section
-2. Check the language translation for UA and GER.
+1. Go to the account dashboard page
+2. Go to the Billing section
+3. Check the language translation for UA and GER.
 Actual result: The section is not fully translated into UA and GER languages
 Expected result: The section should be fully translated into UA and GER languages.
 Severity: Low
