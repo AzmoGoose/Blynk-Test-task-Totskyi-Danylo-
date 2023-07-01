@@ -1,6 +1,6 @@
 Environment: OS: Windows 10 Pro v. 21H1 19043.1237, Browser: Opera GX LVL4 (core: 99.0.4788.49).
 Steps to reproduce
-1. Go the https://fra1.blynk.cloud/dashboard/89432/settings/users page
+1. Go to the account dashboard page
 2. Click on the Invite a new user button
 3. Enter into the email field: any email with unicode characters.
 Actual result: System validates the email as correct
