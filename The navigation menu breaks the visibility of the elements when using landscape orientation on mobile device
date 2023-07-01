@@ -1,0 +1,12 @@
+Environment: Xiaomi Redmi Note 8 Pro Android 11 MIUI 12.5.8 Browser: Chrome: 92.0.4515.159
+Chrome DevTools in Opera GX LVL5 (core: 99.0.4788.86)
+Steps to Reproduce:
+1. Go to the https://blynk.io homepage
+2. Click on the navigation menu button using landscape orientation.
+3. Scroll to the first section so the video section disappers
+4. Click on the navigation menu button using landscape orientation
+Actual result: Some elements are not visible and not interactable using landscape orientation.
+Expected result: All elements should be visible and interactable when using landscape orientation.
+Additional info: The problem is present for every page which has this navigation menu.
+Severity: Low
+Priority: Low/Middle, depends on how often users use landscape orientation.
