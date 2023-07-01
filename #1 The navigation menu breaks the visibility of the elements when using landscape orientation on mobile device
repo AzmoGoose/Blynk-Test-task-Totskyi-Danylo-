@@ -7,6 +7,6 @@ Steps to Reproduce:
 4. Click on the navigation menu button using landscape orientation
 Actual result: Some elements are not visible and not interactable using landscape orientation.
 Expected result: All elements should be visible and interactable when using landscape orientation.
-Additional info: The problem is present for every page which has this navigation menu.
 Severity: Low
 Priority: Low/Middle, depends on how often users use landscape orientation.
+Additional info: The problem is present for every page which has this navigation menu.
