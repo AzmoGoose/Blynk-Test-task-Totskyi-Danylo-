@@ -1,0 +1,8 @@
+Environment: Chrome DevTools in Opera GX LVL5 (core: 99.0.4788.86)
+Steps to reproduce:
+1. Go to the https://blynk.io/iot-platform-for-business page
+2. Select any display size under 480 px width
+Actual result: The logo interferes the text
+Expected result: The logo should not interfere the text
+Severity: Low
+Priority: Low
