@@ -1,8 +1,9 @@
 Environment: OS: Windows 10 Pro v. 21H1 19043.1237, Browser: Opera GX LVL4 (core: 99.0.4788.49).
 Pre-conditions: Logged into account
 Steps to reproduce:
-1. Start the Blynk Tour section
-2. Go to the Platform section
+1. Go to the account dashboard page
+2. Start the Blynk Tour section
+3. Go to the Platform section
 Actual result: Typo in the word "You"
 Expected result: Should be corrected to  "Your"
 Severity: Very Low
